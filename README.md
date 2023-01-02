@@ -6,8 +6,7 @@ Successfully travel to the other side of the field while avoiding drones that wi
 
 ![lab5 big board example 1](https://user-images.githubusercontent.com/121079918/210209191-1d553f77-ed12-47ad-ad38-4ddcaa550e60.png)
 
-
-![lab5 small board example](https://user-images.githubusercontent.com/121079918/210209193-e472198a-7362-4ede-81a0-f1005229ea46.png)
+![lab5 big board example](https://user-images.githubusercontent.com/121079918/210209315-259cacf2-7364-49fc-a445-01b886b7c17e.png)
 
 
 ![lab5 lose game](https://user-images.githubusercontent.com/121079918/210208891-2671efef-3ca1-486c-a796-cc187e32aebe.png)
